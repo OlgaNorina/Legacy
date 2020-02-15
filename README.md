@@ -17,7 +17,7 @@
     * Ознакомиться с руководством использования KeyValidator, расположенного по [ссылке](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
     * Скачать файл [KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class) на компьютер 
     ![](Снимок.PNG)
-    * Открыть командную строку Windows 
+    * Открыть MINGW64 в папке, где хранится файл KeyValidator.class
     * Запустить команду:
     ![](Снимок1.PNG)
     Проверить исполнение программы, подставляя значения ключей вместо нулей в соответствии с инструкцией:
