@@ -34,9 +34,13 @@
 Тестирование производилось в следующем окружении:
 
 Операционная система:
+
 ![image](https://user-images.githubusercontent.com/60429064/74587477-b1c0ec00-5014-11ea-9ba4-5e3174c08738.png)
+
 Версия Java:
+
 ![image](https://user-images.githubusercontent.com/60429064/74587492-d321d800-5014-11ea-9d2c-4621b8209502.png)
 
 Ссылка на исходники проекта на GitHub:
+
 https://github.com/netology-code/javaqa-homeworks.git
